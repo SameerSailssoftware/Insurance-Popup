@@ -162,6 +162,7 @@ input[type=checkbox], input[type=radio] {
 
   #Focus{
     background-color: #FFF5EA !important;
+    padding: 10px 0rem;
   }
 
 
